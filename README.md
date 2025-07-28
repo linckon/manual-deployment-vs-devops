@@ -127,6 +127,7 @@ if (featureFlag.newCheckoutProcess) {
 } else {
   // Show old checkout
 }
+```
 ### Perfect for: A/B testing, gradual rollouts, emergency shutoffs
 
 ---

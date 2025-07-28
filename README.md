@@ -254,13 +254,14 @@ Step-by-step guides for when things go wrong:
    Your application's diary
 
    **Good logs tell a story:**
-2024-01-15 10:30:01 INFO User 12345 logged in
-2024-01-15 10:30:05 INFO User 12345 added item to cart
-2024-01-15 10:30:10 ERROR Payment service timeout for user 12345
-2024-01-15 10:30:10 WARN Retrying payment for user 12345
+```
+  2024-01-15 10:30:01 INFO User 12345 logged in
+  2024-01-15 10:30:05 INFO User 12345 added item to cart
+  2024-01-15 10:30:10 ERROR Payment service timeout for user 12345
+  2024-01-15 10:30:10 WARN Retrying payment for user 12345
+```
 
-
-2. **Metrics 📈**  
+3. **Metrics 📈**  
 
 The vital signs of your app  
 
